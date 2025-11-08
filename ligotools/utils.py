@@ -75,7 +75,6 @@ def plot_results(det, time, timemax, tevent, strain_whitenbp, template_match, SN
     plt.title(det + ' Residual whitened data after subtracting template around event')
     plt.savefig(f'figures/{eventname}_{det}_matchtime.{plottype}')
 
-    # --- 3. PSD and template frequency domain
     plt.figure(figsize=(10,6))
     template_f = np.absolute(template_fft)*np.sqrt(np.abs(datafreq)) / d_eff
     plt.loglog(datafreq, template_f, 'k', label='template(f)*sqrt(f)')
