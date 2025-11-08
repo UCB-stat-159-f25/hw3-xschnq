@@ -1,0 +1,16 @@
+title: "LIGO Gravitational Wave Detection"
+author: "Cyrus Choi"
+logo: figures/logo.png
+execute:
+  execute_notebooks: auto
+html:
+  favicon: figures/logo.png
+
+launch_buttons:
+  binderhub_url: https://mybinder.org
+  notebook_interface: jupyterlab
+
+repository:
+  url: https://github.com/UCB-stat-159-f25/hw3-xschnq
+  path_to_book: ""
+  branch: main
