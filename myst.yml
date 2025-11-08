@@ -1,8 +1,16 @@
-title: "LIGO Gravitational Wave Detection"
-author: "Cyrus Choi"
-affiliation: "University of California, Berkeley"
-binder: "https://mybinder.org/v2/gh/xschnq/hw3-xschnq/main?labpath=LOSC_Event_tutorial.ipynb"
+version: 1
+project:
+  id: 158d9017-b422-4a67-8aea-79dde71f2cd5
+  title: HW 3 LIGO Event Tutorial
+  description: "LIGO Gravitational Wave Detection Project"
+  authors:
+    - name: Cyrus Choi
+      affiliation: UC Berkeley
+  github: https://github.com/UCB-stat-159-f25/hw3-xschnq.git
 
 toc:
-  - index.md
-  - LOSC_Event_tutorial.ipynb
+  - file: README.md
+  - file: LOSC_Event_tutorial.ipynb
+
+site:
+  template: book-theme
