@@ -1,21 +1,23 @@
+# See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: HW 3 LIGO Event Tutorial
-  description: "LIGO Gravitational Wave Detection Project"
-  authors:
-    - name: Cyrus Choi
-      affiliation: UC Berkeley
+  id: hw3-xschnq-uid
+  title: LIGO Tools Package Site
+  authors: ["Cyrus Choi and LIGO Scientific Collaboration (LSC)"]
   github: https://github.com/UCB-stat-159-f25/hw3-xschnq
-
-launch_buttons:
-  binderhub_url: "https://mybinder.org"
-  notebook_interface: "jupyterlab"
-  binder_repo_base: "https://mybinder.org/v2/gh/UCB-stat-159-f25/hw3-xschnq/gh-pages"
-  binder_notebook_path: "LOSC_Event_tutorial.ipynb"
-
-toc:
-  - file: README.md
-  - file: LOSC_Event_tutorial.ipynb
+  exclude:
+    - hw03_description.md
+    - ligotools/README.md
+  toc:
+    - file: README.md
+    - file: LOSC_Event_tutorial.ipynb
+    - title: Ligotools
+      children:
+        - file: ligotools/README.md
 
 site:
   template: book-theme
+
+launch_buttons:
+  binderhub_url: "https://mybinder.org/v2/gh/UCB-stat-159-f25/hw3-xschnq/HEAD?urlpath=%2Fdoc%2Ftree%2FLOSC_Event_tutorial.ipynb"
+  notebook_interface: "jupyterlab"
