@@ -1,0 +1,8 @@
+title: "LIGO Gravitational Wave Detection"
+author: "Cyrus Choi"
+affiliation: "University of California, Berkeley"
+binder: "https://mybinder.org/v2/gh/xschnq/hw3-xschnq/main?labpath=LOSC_Event_tutorial.ipynb"
+
+toc:
+  - index.md
+  - LOSC_Event_tutorial.ipynb

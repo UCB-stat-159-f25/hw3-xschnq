@@ -1,0 +1,7 @@
+title: "LIGO Gravitational Wave Detection"
+author: "Soochang Choi"
+logo: figures/logo.png
+execute:
+  execute_notebooks: auto
+html:
+  favicon: figures/logo.png
