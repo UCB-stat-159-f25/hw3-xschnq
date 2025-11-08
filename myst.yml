@@ -6,7 +6,7 @@ project:
   authors:
     - name: Cyrus Choi
       affiliation: UC Berkeley
-  github: https://github.com/UCB-stat-159-f25/hw3-xschnq.git
+  github: https://github.com/UCB-stat-159-f25/hw3-xschnq
 
 toc:
   - file: README.md
