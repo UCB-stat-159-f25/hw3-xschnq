@@ -1,5 +1,0 @@
-numpy
-matplotlib
-scipy
-h5py
-pytest
