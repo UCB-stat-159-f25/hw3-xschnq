@@ -1,9 +1,9 @@
 # MyST build outputs
 _build
 # Ignore build artifacts
-_build/
-audio/
-figures/
+#_build/
+#audio/
+#figures/
 
 # Python cache
 __pycache__/
