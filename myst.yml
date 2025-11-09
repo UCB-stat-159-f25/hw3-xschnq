@@ -1,24 +1,25 @@
 version: 1
 project:
-  title: "STAT 159 HW03 – LIGO"
+  title: "STAT 159 HW03 — LIGO"
   authors: ["LIGO Scientific Collaboration", "Cyrus Choi"]
   license: "CC-BY-4.0"
 
 site:
-  title: "STAT 159 HW03 – LIGO"
+  title: "STAT 159 HW03 — LIGO"
   template: book-theme
   favicon: assets/favicon.ico
+  baseurl: https://ucb-stat-159-f25.github.io/hw3-xschnq/
 
 launch:
   binder:
-    url: https://mybinder.org/v2/gh/USERNAME/REPO/main
+    url: https://mybinder.org/v2/gh/UCB-stat-159-f25/hw3-xschnq/gh-pages
     notebook: LOSC_Event_tutorial.ipynb
 
 html:
   use_repository_button: true
   use_edit_page_button: false
   use_issues_button: false
-  announcement: "This project was built for STAT 159 (Fall 2025) – UC Berkeley"
+  announcement: "This project was built for STAT 159 (Fall 2025) — UC Berkeley"
 
 toc:
   path: _toc.yml
