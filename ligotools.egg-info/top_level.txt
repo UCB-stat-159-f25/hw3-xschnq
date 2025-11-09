@@ -1,5 +1,0 @@
-audio
-build
-data
-figures
-ligotools
