@@ -8,7 +8,8 @@ site:
   title: "STAT 159 HW03 — LIGO"
   template: book-theme
   favicon: assets/favicon.ico
-  baseurl: https://ucb-stat-159-f25.github.io/hw3-xschnq/
+  baseurl: /hw3-xschnq/
+  static: build/html/_static
 
 launch:
   binder:
@@ -19,7 +20,7 @@ html:
   use_repository_button: true
   use_edit_page_button: false
   use_issues_button: false
-  announcement: "This project was built for STAT 159 (Fall 2025) — UC Berkeley"
+  announcement: "🌟 This project was built for STAT 159 (Fall 2025) — UC Berkeley"
 
 toc:
   path: _toc.yml
