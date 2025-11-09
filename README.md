@@ -9,7 +9,8 @@ It demonstrates the workflow for reproducible research and website deployment us
 ---
 
 ## 🔗 Launch Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/hw3-xschnq/gh-pages?labpath=LOSC_Event_tutorial.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/hw3-xschnq/main?labpath=LOSC_Event_tutorial.ipynb)
+
 
 ---
 
