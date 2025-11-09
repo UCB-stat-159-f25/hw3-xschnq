@@ -1,0 +1,6 @@
+html:
+  navbar_number_sections: false
+  use_repository_button: true
+  use_issues_button: false
+  home_page_in_navbar: true
+  logo_text: "STAT 159 HW03 — LIGO"

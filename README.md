@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/wOo27OxG)
 
 
-# LIGO Gravitational Wave Detection
+# STAT 159 Homework 3 — LIGO
 
 This repository contains the MyST site and notebook for **HW 3: LIGO Event Tutorial**.  
 It demonstrates the workflow for reproducible research and website deployment using Git, GitHub, and MyST Markdown.
