@@ -9,7 +9,7 @@ It demonstrates the workflow for reproducible research and website deployment us
 ---
 
 ## 🔗 Launch Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/hw3-xschnq/HEAD?labpath=LOSC_Event_tutorial.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/hw3-xschnq/gh-pages?labpath=LOSC_Event_tutorial.ipynb)
 
 ---
 
@@ -20,7 +20,6 @@ Deployed site: [https://ucb-stat-159-f25.github.io/hw3-xschnq/](https://ucb-stat
 
 ## 📄 Project Description
 - MyST site built from `LOSC_Event_tutorial.ipynb`
-- Automatic deployment via GitHub Actions → `gh-pages` branch
 - Includes Binder launch for interactive execution
 
 ---
