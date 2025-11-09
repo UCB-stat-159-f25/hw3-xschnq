@@ -1,28 +1,28 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+#__pycache__/
+#*.py[cod]
+#*$py.class
 
 # MyST build folders
-_build/
-build/
+#_build/
+#build/
 
 # Output folders
-figures/
-audio/
+#figures/
+#audio/
 
 # Environment and package files
-.env/
-.venv/
-*.egg-info/
-*.egg
-pip-wheel-metadata/
+#.env/
+#.venv/
+#*.egg-info/
+#*.egg
+#pip-wheel-metadata/
 
 # Mac OS metadata
-.DS_Store
+#.DS_Store
 
 # Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+#.ipynb_checkpoints/
 
 # Binder cache
-binder/
+#binder/
