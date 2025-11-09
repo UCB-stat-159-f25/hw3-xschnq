@@ -1,7 +1,6 @@
 # MyST build outputs
-_build
-# Ignore build artifacts
-#_build/
+#build
+#build/
 #audio/
 #figures/
 
