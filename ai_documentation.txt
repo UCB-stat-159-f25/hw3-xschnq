@@ -1,7 +1,3 @@
-AI Tool Used: ChatGPT (GPT-5)
-Purpose: Helped with configuring MyST site, fixing GitHub Pages workflow, Binder link, and Makefile.
-Prompts: 
-- "Set up the repository to be a proper MyST one..."
-- "There should be a Makefile with the following targets..."
-Outputs: Generated Makefile, .yml configuration, README formatting, and error fixes.
-Usage: Strictly for workflow debugging, documentation writing, and formatting improvements.
+I used ChatGPT (GPT-5) for debugging Binder deployment errors, fixing MyST baseurl,
+and formatting the Makefile. Prompts mainly involved diagnosing YAML and CI errors.
+Final verification and content writing were done manually.

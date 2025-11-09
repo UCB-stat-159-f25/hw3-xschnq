@@ -20,8 +20,9 @@ Deployed site: [https://ucb-stat-159-f25.github.io/hw3-xschnq/](https://ucb-stat
 ---
 
 ## 📄 Project Description
-- MyST site built from `LOSC_Event_tutorial.ipynb`
-- Includes Binder launch for interactive execution
+This project reproduces the LIGO Gravitational Wave Detection tutorial
+as part of STAT 159 (Fall 2025) — UC Berkeley.  
+It demonstrates reproducible research using MyST Markdown and GitHub Pages.
 
 ---
 
