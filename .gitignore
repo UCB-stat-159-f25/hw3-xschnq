@@ -1,16 +1,1 @@
-# MyST build outputs
-#build
-#build/
-#audio/
-#figures/
-
-# Python cache
-__pycache__/
-*.pyc
-
-# Jupyter checkpoints
-.ipynb_checkpoints/
-
-# System files
-.DS_Store
 
