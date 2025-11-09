@@ -1,6 +1,15 @@
-html:
-  navbar_number_sections: false
+version: 1
+project:
+  name: "LIGO Gravitational Wave Detection"
+  author: "Cyrus Choi and LIGO Scientific Collaboration (LSC)"
+  copyright: "2025"
+  github: "https://github.com/UCB-stat-159-f25/hw3-xschnq"
+  open_in_binder: true
+  logo: ""
+site:
+  title: "STAT 159 HW03 – LIGO"
+  favicon: ""
   use_repository_button: true
+  use_edit_page_button: false
   use_issues_button: false
-  home_page_in_navbar: true
-  logo_text: "STAT 159 HW03 — LIGO"
+  use_download_button: false
