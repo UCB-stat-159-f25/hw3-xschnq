@@ -1,3 +1,3 @@
-I used ChatGPT (GPT-5) for debugging Binder deployment errors, fixing MyST baseurl,
+I used ChatGPT (GPT-5) for debugging Binder deployment errors, fixing MyST baseurl and structure,
 and formatting the Makefile. Prompts mainly involved diagnosing YAML and CI errors.
 Final verification and content writing were done manually.
