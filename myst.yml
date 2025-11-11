@@ -9,7 +9,7 @@ site:
   template: book-theme
   favicon: assets/favicon.ico
   baseurl: /hw3-xschnq/
-  static: build/html/_static
+  static: _build/html/_static
 
 launch:
   binder:

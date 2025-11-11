@@ -16,7 +16,7 @@ site:
   use_issues_button: false
   use_download_button: false
   baseurl: "/hw3-xschnq/"
-  static_path: _static
+  static_path: _build/html/_static
 
 html:
   favicon: ""
